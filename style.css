@@ -1,0 +1,11 @@
+
+
+.intro {
+    background-image: url('tabMount.jpg');
+}
+
+@media(min-width: 960px){
+    .sub_resp{
+        display: flex;
+    }
+}
